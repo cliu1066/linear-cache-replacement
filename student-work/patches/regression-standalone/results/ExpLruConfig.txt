@@ -1,0 +1,7 @@
+RESULT fit4     accesses=2000 misses=4 missrate=0.2% cycles=18321
+RESULT thrash5  accesses=2500 misses=2500 missrate=100.0% cycles=57748
+RESULT stream   accesses=2048 misses=2049 missrate=100.0% cycles=55566
+RESULT hotscan  accesses=8192 misses=5121 missrate=62.5% cycles=162319
+RESULT random   accesses=5000 misses=2560 missrate=51.2% cycles=431288
+RESULT mixed    accesses=5000 misses=1564 missrate=31.3% cycles=462392
+DONE sink=0
