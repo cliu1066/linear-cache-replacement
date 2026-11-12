@@ -1,0 +1,6 @@
+# editor and any metals caches
+.metals/
+.scala-build/
+.bloop/
+.bsp/
+.vscode/
